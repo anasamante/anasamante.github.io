@@ -53,28 +53,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Senior Quality Assurance Engineer with 9 years of experience, including 2 years experience in test automation using Cypress, 
-      with a strong understanding of Cypress concepts and techniques. 
-      Team focused worker, committed to ensure software quality compliance with system requirements specifications and ensure 
-      software meets production level requirements. 
-      Experience with different types of testing such as functional, regression, integration, cross browsing, exploratory, mobile, 
-      and testing of web applications, web services (APIs) and databases.
-      Software testing expertise on creation and maintenance of QA processes and workflows. Story analysis and clarification. 
-      Creation of test cases bugs and defects
+      Senior Quality Assurance Engineer with 9 years of experience, including 2 years experience in test automation 
+      using Cypress, with a strong understanding of Cypress concepts and techniques. Team focused worker, committed 
+      to ensure software quality compliance with system requirements specifications and ensure software meets production 
+      level requirements. 
+      Experience with different types of testing such as functional, regression, integration, cross browsing, 
+      exploratory, mobile, and testing of web applications, web services (APIs) and databases.
+      Software testing expertise on creation and maintenance of QA processes and workflows. Story analysis and 
+      clarification. Creation of test cases bugs and defects
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: High School Diploma, Natural Sciences, Health and Environment
+        university: Escuela de Educación Secundaria Orientada N° 435
+        time: 1999 - 2003
+        details: 
 experiences:
     title: Experiences
     info:
