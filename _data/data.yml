@@ -257,7 +257,6 @@ skills:
 
     toolset:
       - name: Cypress
-        level: 80%
 
       - name: SQL
         level: 50%
