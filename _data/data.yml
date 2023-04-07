@@ -72,7 +72,7 @@ experiences:
     title: Experience
     info:
       - role: QA Automation Engineer
-        time: 2021 - Present
+        time: 2021 - 2023
         company: Endava (Alchemer)
         details: |
           Enterprise data collection, orchestration, and analytics platform that helps 
@@ -212,13 +212,27 @@ oss:
         tagline: 
 
 publications:
-    title: 
+    title: Licenses & certifications
     intro: 
-    papers:
-      - title: 
-        link: 
-        authors: 
+    papers: 
+      - title: End-to-End JavaScript Testing with Cypress.io
+        link: https://www.linkedin.com/learning/certificates/825553e4475591ce1ce41374247727558dd2bac0ad1f0624790fa2c8744ebed9
+        authors: LinkedIn
         conference: 
+      - title: Advanced Cypress
+        link: https://testautomationu.applitools.com/certificate/?id=1a68aa6d
+        authors: TestAutomationU
+        conference: 
+      - title: Cypress Version 10 Fundamentals
+        link: 
+        authors: BlazeMeter University
+        conference: Credential ID 157263067
+      - title: Cypress with TypeScript
+        link: https://testautomationu.applitools.com/certificate/?id=cad9e71c
+        authors: TestAutomationU
+        conference: 
+
+
 
 skills:
     title: Skills &amp; Proficiency
