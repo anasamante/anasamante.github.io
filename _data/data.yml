@@ -69,23 +69,25 @@ education:
         time: 1999 - 2003
         details: 
 experiences:
-    title: Experiences
+    title: Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: QA Automation Engineer
+        time: 2021 - Present
+        company: Endava (Alchemer)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+        Enterprise data collection, orchestration, and analytics platform that helps some of the biggest brands to deliver on 
+        their missions by enabling them to operationalization feedback by integrating critical data from their Customers 
+        (employees, users, patients, vendors, etc) into their key business systems through an easy to use, low code SaaS platform.
+        Responsibilities
+        • Design and write end-to-end automated tests for all new features, as well as for existing functionality. Cypress framework 
+        • Maintain, automate and develop the existing test suite across the project.
+        • Review the work of your colleagues.
+        • Continuously improve team’s processes, brainstorm ideas, and communicate your status and progress.
+        • Mentor other people, and provide feedback.
+        • Review requirements, specifications, and technical design documents to provide timely and meaningful feedback.
+        • Work closely with the product team, stakeholders, and users from the preliminary planning to plan and deliver new features.
+        • Estimate, prioritize, plan and coordinate testing activities.
+        • Actively participate in meetings including Scrum meetings.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
