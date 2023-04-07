@@ -198,19 +198,18 @@ experiences:
             - Participating in knowledge transfer to Neoris' co-workers.
 projects:
     title: 
-    intro: 
+    intro:
     assignments:
-      - title: 
-        link: 
-        tagline: 
+      - title:
+        link:
+        tagline:
 oss:
-    title: 
-    intro: 
+    title:
+    intro:
     contributions:
       - title:
         link:
-        tagline: 
-
+        tagline:
 publications:
     title: Licenses & certifications
     intro: 
