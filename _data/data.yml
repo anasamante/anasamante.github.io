@@ -93,17 +93,23 @@ experiences:
             planning to plan and deliver new features.
             - Estimate, prioritize, plan and coordinate testing activities.
             - Actively participate in meetings including Scrum meetings.
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Mobile Senior Quality Engineer
+        time: 2020 - 2021
+        company: Venmo
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Mobile functional quality engineer. Peer-to-peer payment platform, a mobile app 
+          that enables sending money easily among friends. It can be also used to pay for 
+          goods and services from some online retailers as well as to make in-app purchases. 
+          It’s also a social platform, your transactions are visible to the public, as well 
+          as your friends on the platform. Who’s sending or receiving money from whom, and 
+          the notes they include about what the payments are for are displayed on Venmo's feed.
+            - Design, implement and execute test strategy to ensure product quality.
+            - Set a great example of teamwork and collaboration for the QE and Experience team.
+            - Utilize test case management tools to write and maintain test plans and test cases 
+            - Utilize bug tracking software to report and track issue resolution.
+            - Perform ad hoc, edge case and critical path testing.
+            - Manually test on mobile devices to find bugs and give feedback on product quality.
+            - Leverage iOS and Android testing framework during regression.
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
