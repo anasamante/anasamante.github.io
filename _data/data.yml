@@ -110,17 +110,92 @@ experiences:
             - Perform ad hoc, edge case and critical path testing.
             - Manually test on mobile devices to find bugs and give feedback on product quality.
             - Leverage iOS and Android testing framework during regression.
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Senior Quality Engineer
+        time: 2020 - 2020
+        company: Bonzzu (Jempstep)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          An established FinTech innovator with over 10 years of experience in digital advice. 
+          Build and implement end to end digital wealth solutions for banks, credit unions, RIAs, 
+          broker-dealers, and insurance firms.
+            - Developed, and maintained automated scripts to replicate and test real-world scenarios, 
+            migrating Selenium tests to Cypress
+            - Performed manual system tests when necessary.
+            - Wrote gherkin test scenarios.
+      - role: Senior Quality Engineer
+        time: 2019 - 2020
+        company: Overactive (XPO Logistics)
+        details: |
+          Leading global provider of transportation and logistics services: less-than-truckload 
+          transportation, truck brokerage, last mile logistics, intermodal, drayage, contract 
+          logistics, ground and air expedite, global forwarding and managed transportation.
+            - Analyzing requirements, developing test plans, test scenarios, and executing test cases.
+            - Performing SQL statements for set up, retrieve and verify modified data for tests to ensure 
+            data displayed in UI matched back end database.
+            - Analyzing applications and errors, escalated issues to developers, and verified fixes.
+            - Getting all requirements clarifications from the product owner. 
+            - Creating new workflows for QA in Jira to provide real metrics on how the QA activities are being done. 
+            - Estimating stories
+            - Provided mentoring and guidance for new members of the QA team.
+      - role: Senior Quality Engineer
+        time: 2019 - 2019
+        company: Endava (PeopleMatter by SnagAJob)
+        details: |
+          Human resource cloud-based solution that focuses on connecting workers with employers, offers 
+          end-to-end hiring solutions, allows to have a streamlined hiring process by combining sourcing, 
+          screening and applicant tracking into one centralized, web-based solution.
+            - Generating test plans and executed test cases
+            - Reporting and validating bugs, communicating with the development team
+            - Performing issue tracking, logging and reporting using JIRA
+            - Maintaining automated test suite, ensuring test kept working correctly
+            - Running automated cases
+            - Creating automated cases for new features within an already created and working framework 
+            (Selenium -Cucumber - Ruby).
+      - role: Senior Quality Engineer
+        time: 2015 - 2019
+        company: Endava (OrderGroove)
+        details: |
+          Web-based platform that integrates into any eCommerce website, allowing customers to subscribe to 
+          frequently purchased items.
+            - Analyzing requirements, developing test plans, test scenarios, and executing test cases.
+            - Performing SQL statements for set up, retrieve and verify modified data for tests to ensure data 
+            displayed in UI matched back-end database.
+            - Analyzing applications and errors, escalated issues to developers, and verified fixes.
+            - Providing recommendations to developers and product owners on implementing more user-friendly features.
+            - Estimating stories and QA tasks
+            - Ensuring compatibility across multiple browsers and mobile devices.
+            - Testing API with Postman to create users on the database or modify their information, verifying 
+            correct errors were retrieved.
+            - Ensuring code was deployed correctly to production by running sanity tests.
+            - Triggering Jenkins jobs to execute API automated Testing.
+            - Documenting new functionalities in Confluence. 
+            - Participating in technical reviews related to UX changes.
+            - Participating in demos, and product meetings with product owners to ensure product quality.
+            - Provided mentoring and guidance for new members of the QA team.
+      - role: Quality Assurance Engineer
+        time: 2014 - 2015
+        company: Endava (WebMD Health Services)
+        details: |
+          Web and mobile well-being solutions that provide assessment, motivation, coaching, education, rewards, 
+          communications, reporting for employers and health plans.
+            - Analyzing requirements, developing test plans, test scenarios, and executing test cases.
+            - Performing SQL statements for set up, retrieve and verify modified data for tests to ensure data displayed in UI matched back-end database.
+            - Analyzing applications and errors, escalated issues to developers, and verified fixes.
+            - Getting all requirements clarifications from the product owner. 
+            - Estimating stories
+            - Participating in continuous deployment process by deploying front-end changes using Jenkins.
+            - Documenting the application's functional specifications in Confluence.
+      - role: Managed Business Consultant
+        time: 2011 - 2014
+        company: Neoris (Lowe's Home Improvement)
+        details: |
+          Web and desktop applications used internally for home improvement retail stores.
+            - Resolving support requests or transactions of intermediate complexity that were scaled by Level 1 or Level 2 customer support, following the procedures established by the operation, looking in all cases to ensure continuity of customer operation, and software quality.
+            - Documenting support resolutions in the knowledge base so that they can solve repeated cases.
+            - Providing the user with a temporary solution that allows him/her to continue with his/her activity.
+            - Diagnosing and determining the root cause of the problems of low complexity in order to prevent the recurrence of incidents reported.
+            - Complying with client's SLA.
+            - Executing activities related to the process of Incident and Problem Management in accordance with its responsibilities and Neoris' support methodology and defined procedures.
+            - Participating in knowledge transfer to Neoris' co-workers.
 projects:
     title: 
     intro: 
