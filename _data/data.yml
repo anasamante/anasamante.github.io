@@ -224,9 +224,9 @@ publications:
         authors: TestAutomationU
         conference: 
       - title: Cypress Version 10 Fundamentals
-        link: 
+        link: https://drive.google.com/file/d/1xw2bLbiwUlmZ33Sz3bBXdLywwlDwJ86x/view?usp=sharing
         authors: BlazeMeter University
-        conference: Credential ID 157263067
+        conference:
       - title: Cypress with TypeScript
         link: https://testautomationu.applitools.com/certificate/?id=cad9e71c
         authors: TestAutomationU
@@ -256,23 +256,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Cypress
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: SQL
+        level: 50%
 
-      - name: Angular
+      - name: Agiles Methodologies
         level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
