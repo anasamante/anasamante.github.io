@@ -230,9 +230,27 @@ publications:
       - title: Cypress with TypeScript
         link: https://testautomationu.applitools.com/certificate/?id=cad9e71c
         authors: TestAutomationU
-        conference: 
-
-
+        conference:
+      - title: Learn Java Course
+        link: https://www.codecademy.com/profiles/ana.s.amante/certificates/d3f89367b558583e361640f778191345
+        authors: Codecademy
+        conference:
+      - title: EF SET English Certificate 81/100 (C2 Proficient)
+        link: https://www.efset.org/cert/ZfRp7j
+        authors: EF Standard English Test (EF SET) 
+        conference:
+      - title: Introduction to Cypress
+        link: https://testautomationu.applitools.com/certificate/?id=43eec164
+        authors: TestAutomationU 
+        conference:
+      - title: Scrum Foundation Professional Certificate (SFPC) - (Spanish)
+        link: 
+        authors: CertiProf 
+        conference: Credential ID FLCLDJLWJT-SSSQKRJD-WHKBDHWZBD
+      - title: Software Development Fundamentals
+        link: https://sigead.online/alumnos/validar_certificado
+        authors: UTN Buenos Aires 
+        conference: Credential ID CER-72KL9XJY-319932
 
 skills:
     title: Skills &amp; Proficiency
