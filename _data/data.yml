@@ -50,6 +50,25 @@ sidebar:
         - item: 
           link:
 
+    skills:
+      title: Skills 
+
+      toolset:
+        - name: Proficiency in Cypress
+        - name: Version control	
+        - name: Web technologies HTML5 & CSS
+        - name: Test planning, design and Test execution	
+        - name: Regression testing	
+        - name: Defect management	
+        - name: Test environment management	
+        - name: Test data management	
+        - name: Communication skills	
+        - name: Problem-solving skills	
+        - name: Attention to detail
+        - name: Agiles Methodologies
+        - name: Continuous integration and delivery
+        - name: Programming skills	
+      
 career-profile:
     title: Career Profile
     summary: |
@@ -250,26 +269,6 @@ publications:
         link: https://sigead.online/alumnos/validar_certificado
         authors: UTN Buenos Aires 
         conference: Credential ID CER-72KL9XJY-319932
-
-skills:
-    title: Skills 
-
-    toolset:
-      - name: Proficiency in Cypress
-      - name: Version control	
-      - name: Web technologies HTML5 & CSS
-      - name: Test planning, design and Test execution	
-      - name: Regression testing	
-      - name: Defect management	
-      - name: Test environment management	
-      - name: Test data management	
-      - name: Communication skills	
-      - name: Problem-solving skills	
-      - name: Attention to detail
-      - name: Agiles Methodologies
-      - name: Continuous integration and delivery
-      - name: Programming skills	
-      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
