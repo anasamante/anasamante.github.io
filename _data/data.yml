@@ -67,12 +67,11 @@ sidebar:
         - name: Attention to detail
         - name: Agiles Methodologies
         - name: Continuous integration and delivery
-        - name: Programming skills	
       
 career-profile:
     title: Career Profile
     summary: |
-      Senior Quality Assurance Engineer with 9 years of experience, including 2 years experience in test automation 
+      Senior Quality Assurance Engineer with 9+ years of experience, including 2+ years experience in test automation 
       using Cypress, with a strong understanding of Cypress concepts and techniques. Team focused worker, committed 
       to ensure software quality compliance with system requirements specifications and ensure software meets production 
       level requirements. 
@@ -271,4 +270,3 @@ publications:
         conference: Credential ID CER-72KL9XJY-319932
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
