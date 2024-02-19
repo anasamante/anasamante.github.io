@@ -232,6 +232,10 @@ publications:
     title: Certificates
     intro: 
     papers: 
+      - title: Introduction to Programming with Python
+        link: https://certificates.cs50.io/08ff0841-5bd6-4919-b4b8-f12d5b54390a.pdf?size=letter
+        authors: CS50 - HarvardX
+        conference: 
       - title: End-to-End JavaScript Testing with Cypress.io
         link: https://www.linkedin.com/learning/certificates/825553e4475591ce1ce41374247727558dd2bac0ad1f0624790fa2c8744ebed9
         authors: LinkedIn
