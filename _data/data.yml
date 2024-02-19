@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: Resume PDF
+    pdf: #Resume PDF
 
     languages:
       title: Languages
@@ -202,18 +202,18 @@ experiences:
             - Estimating stories
             - Participating in continuous deployment process by deploying front-end changes using Jenkins.
             - Documenting the application's functional specifications in Confluence.
-      - role: Managed Business Consultant
-        time: 2011 - 2014
-        company: Neoris (Lowe's Home Improvement)
-        details: |
-          Web and desktop applications used internally for home improvement retail stores.
-            - Resolving support requests or transactions of intermediate complexity that were scaled by Level 1 or Level 2 customer support, following the procedures established by the operation, looking in all cases to ensure continuity of customer operation, and software quality.
-            - Documenting support resolutions in the knowledge base so that they can solve repeated cases.
-            - Providing the user with a temporary solution that allows him/her to continue with his/her activity.
-            - Diagnosing and determining the root cause of the problems of low complexity in order to prevent the recurrence of incidents reported.
-            - Complying with client's SLA.
-            - Executing activities related to the process of Incident and Problem Management in accordance with its responsibilities and Neoris' support methodology and defined procedures.
-            - Participating in knowledge transfer to Neoris' co-workers.
+#      - role: Managed Business Consultant
+#        time: 2011 - 2014
+#        company: Neoris (Lowe's Home Improvement)
+#        details: |
+#          Web and desktop applications used internally for home improvement retail stores.
+#            - Resolving support requests or transactions of intermediate complexity that were scaled by Level 1 or Level 2 customer support, following the procedures established by the operation, looking in all cases to ensure continuity of customer operation, and software quality.
+#            - Documenting support resolutions in the knowledge base so that they can solve repeated cases.
+#            - Providing the user with a temporary solution that allows him/her to continue with his/her activity.
+#            - Diagnosing and determining the root cause of the problems of low complexity in order to prevent the recurrence of incidents reported.
+#            - Complying with client's SLA.
+#            - Executing activities related to the process of Incident and Problem Management in accordance with its responsibilities and Neoris' support methodology and defined procedures.
+#            - Participating in knowledge transfer to Neoris' co-workers.
 projects:
     title: 
     intro:
