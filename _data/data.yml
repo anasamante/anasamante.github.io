@@ -91,19 +91,19 @@ experiences:
     title: Experience
     info:
     - role: QA Automation Engineer
-        time: 2024 - Present
-        company: Titan OS
-        details: |
-          Titan OS develops cutting-edge operating systems for smart TVs, leveraging 
-          innovative technologies to enhance user experiences. As a QA Automation 
-          Engineer, I focus on ensuring the quality and reliability of our TV OS platforms.
-            - Design & Implementation: Develop and maintain end-to-end automated 
-            tests for TV OS features using JavaScript and the Suitest framework. 
-            - Test Suite Management: Continuously enhance and expand the existing 
-            test suite to ensure comprehensive coverage.
-            - Peer Reviews: Review colleagues’ work to maintain quality standards.
-            - Process Improvement: Actively contribute to refining testing 
-            processes, exploring new methodologies, and implementing best practices.  
+      time: 2024 - Present
+      company: Titan OS
+      details: |
+        Titan OS develops cutting-edge operating systems for smart TVs, leveraging 
+        innovative technologies to enhance user experiences. As a QA Automation 
+        Engineer, I focus on ensuring the quality and reliability of our TV OS platforms.
+          - Design & Implementation: Develop and maintain end-to-end automated 
+          tests for TV OS features using JavaScript and the Suitest framework. 
+          - Test Suite Management: Continuously enhance and expand the existing 
+          test suite to ensure comprehensive coverage.
+          - Peer Reviews: Review colleagues’ work to maintain quality standards.
+          - Process Improvement: Actively contribute to refining testing 
+          processes, exploring new methodologies, and implementing best practices.  
       - role: QA Automation Engineer
         time: 2021 - 2023
         company: Endava (Alchemer)
