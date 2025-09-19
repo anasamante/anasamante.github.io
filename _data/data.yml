@@ -71,14 +71,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Senior Quality Assurance Engineer with 9+ years of experience, including 2+ years experience in test automation 
-      using Cypress, with a strong understanding of Cypress concepts and techniques. Team focused worker, committed 
-      to ensure software quality compliance with system requirements specifications and ensure software meets production 
-      level requirements. 
-      Experience with different types of testing such as functional, regression, integration, cross browsing, 
-      exploratory, mobile, and testing of web applications, web services (APIs) and databases.
-      Software testing expertise on creation and maintenance of QA processes and workflows. Story analysis and 
-      clarification. Creation of test cases bugs and defects
+      Senior Quality Assurance Engineer with 10+ years of experience, including 5+ years in test automation using Cypress, with a strong understanding of Cypress concepts and techniques. A team-oriented professional, committed to ensuring software quality, compliance with system requirements specifications, and meeting production-level standards.
+      Extensive experience in multiple types of testing, including functional, regression, integration, cross-browser, exploratory, mobile, and testing of web applications, web services (APIs), and databases. Expertise in creating and maintaining QA processes and workflows. Skilled in story analysis and clarification, as well as in writing test cases, reporting bugs, and tracking defects.
 education:
     title: Education
     info:
@@ -89,6 +83,15 @@ education:
 experiences:
     title: Experience
     info:
+      - role: QA Automation Engineer
+        time: 2024 – Present
+        company: Titan OS
+        details: |
+          Titan OS develops cutting-edge operating systems for smart TVs, leveraging innovative technologies to enhance user experiences. As a QA Automation Engineer, I focus on ensuring the quality and reliability of our TV OS platforms.
+          - Design & Implementation: Develop and maintain end-to-end automated tests for TV OS features using JavaScript and the Suitest framework.
+          - Test Suite Management: Continuously enhance and expand the existing test suite to ensure comprehensive coverage.
+          - Peer Reviews: Review colleagues’ work to maintain quality standards.
+          - Process Improvement: Actively contribute to refining testing processes, exploring new methodologies, and implementing best practices.
       - role: QA Automation Engineer
         time: 2021 - 2023
         company: Endava (Alchemer)
