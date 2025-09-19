@@ -71,7 +71,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Senior Quality Assurance Engineer with 10+ years of experience, including 5+ years in test automation using Cypress, with a strong understanding of Cypress concepts and techniques. A team-oriented professional, committed to ensuring software quality, compliance with system requirements specifications, and meeting production-level standards.
+      Senior Quality Assurance Engineer with 10+ years of experience, including 5+ years in test automation using Cypress, with a strong understanding of Cypress concepts and techniques. 
+      A team-oriented professional, committed to ensuring software quality, compliance with system requirements specifications, and meeting production-level standards.
+      
       Extensive experience in multiple types of testing, including functional, regression, integration, cross-browser, exploratory, mobile, and testing of web applications, web services (APIs), and databases. Expertise in creating and maintaining QA processes and workflows. Skilled in story analysis and clarification, as well as in writing test cases, reporting bugs, and tracking defects.
 education:
     title: Education
@@ -96,115 +98,88 @@ experiences:
         time: 2021 - 2023
         company: Endava (Alchemer)
         details: |
-          Enterprise data collection, orchestration, and analytics platform that helps 
-          some of the biggest brands to deliver on their missions by enabling them to 
-          operationalization feedback by integrating critical data from their Customers 
-          (employees, users, patients, vendors, etc) into their key business systems 
-          through an easy to use, low code SaaS platform.
-            - Design and write end-to-end automated tests for all new features, as well 
-            as for existing functionality. Cypress framework 
-            - Maintain, automate and develop the existing test suite across the project.
-            - Review the work of your colleagues.
-            - Continuously improve team’s processes, brainstorm ideas, and communicate 
-            your status and progress.
-            - Mentor other people, and provide feedback.
-            - Review requirements, specifications, and technical design documents to provide 
-            timely and meaningful feedback.
-            - Work closely with the product team, stakeholders, and users from the preliminary 
-            planning to plan and deliver new features.
-            - Estimate, prioritize, plan and coordinate testing activities.
-            - Actively participate in meetings including Scrum meetings.
+          Enterprise data collection, orchestration, and analytics platform enabling organizations to integrate 
+          customer feedback (employees, users, patients, vendors, etc.) into core business systems through a low-code SaaS platform.
+            - Designed and wrote end-to-end automated tests for new and existing functionality using Cypress.
+            - Maintained and developed the existing automated test suite.
+            - Reviewed colleagues’ work and mentored team members.
+            - Continuously improved processes, brainstormed ideas, and communicated status and progress.
+            - Reviewed requirements, specifications, and technical design documents to provide timely feedback.
+            - Collaborated closely with product teams, stakeholders, and users from planning to delivery.
+            - Estimated, prioritized, planned, and coordinated testing activities.
+            - Actively participated in Scrum and other meetings.
       - role: Mobile Senior Quality Engineer
         time: 2020 - 2021
         company: Venmo
         details: |
-          Mobile functional quality engineer. Peer-to-peer payment platform, a mobile app 
-          that enables sending money easily among friends. It can be also used to pay for 
-          goods and services from some online retailers as well as to make in-app purchases. 
-          It’s also a social platform, your transactions are visible to the public, as well 
-          as your friends on the platform. Who’s sending or receiving money from whom, and 
-          the notes they include about what the payments are for are displayed on Venmo's feed.
-            - Design, implement and execute test strategy to ensure product quality.
-            - Set a great example of teamwork and collaboration for the QE and Experience team.
-            - Utilize test case management tools to write and maintain test plans and test cases 
-            - Utilize bug tracking software to report and track issue resolution.
-            - Perform ad hoc, edge case and critical path testing.
-            - Manually test on mobile devices to find bugs and give feedback on product quality.
-            - Leverage iOS and Android testing framework during regression.
+          Venmo is a peer-to-peer payment platform and mobile app enabling users to send money easily among 
+          friends, pay for goods and services, and make in-app purchases. It also functions as a social 
+          platform where transactions are visible to friends or the public.            
+            - Designed, implemented, and executed test strategies to ensure product quality.
+            - Set strong examples of teamwork and collaboration within QE and cross-functional teams.
+            - Used test case management tools to maintain test plans and cases.
+            - Reported and tracked issues with bug tracking software.
+            - Performed ad hoc, edge case, and critical path testing.
+            - Conducted manual testing on mobile devices and provided quality feedback.
+            - Leveraged iOS and Android testing frameworks during regression.
       - role: Senior Quality Engineer
         time: 2020 - 2020
         company: Bonzzu (Jempstep)
         details: |
-          An established FinTech innovator with over 10 years of experience in digital advice. 
-          Build and implement end to end digital wealth solutions for banks, credit unions, RIAs, 
-          broker-dealers, and insurance firms.
-            - Developed, and maintained automated scripts to replicate and test real-world scenarios, 
-            migrating Selenium tests to Cypress
-            - Performed manual system tests when necessary.
-            - Wrote gherkin test scenarios.
+          A FinTech innovator providing digital wealth solutions for banks, credit unions, RIAs, broker-dealers, and insurance firms.
+            - Developed and maintained automated scripts to replicate real-world scenarios.
+            - Migrated Selenium tests to Cypress.
+            - Performed manual system tests when needed.
+            - Wrote Gherkin test scenarios.
       - role: Senior Quality Engineer
         time: 2019 - 2020
         company: Overactive (XPO Logistics)
         details: |
-          Leading global provider of transportation and logistics services: less-than-truckload 
-          transportation, truck brokerage, last mile logistics, intermodal, drayage, contract 
-          logistics, ground and air expedite, global forwarding and managed transportation.
-            - Analyzing requirements, developing test plans, test scenarios, and executing test cases.
-            - Performing SQL statements for set up, retrieve and verify modified data for tests to ensure 
-            data displayed in UI matched back end database.
-            - Analyzing applications and errors, escalated issues to developers, and verified fixes.
-            - Getting all requirements clarifications from the product owner. 
-            - Creating new workflows for QA in Jira to provide real metrics on how the QA activities are being done. 
-            - Estimating stories
-            - Provided mentoring and guidance for new members of the QA team.
+          A leading global provider of transportation and logistics services.
+            - Analyzed requirements, developed test plans and scenarios, and executed test cases.
+            - Performed SQL queries to set up, retrieve, and validate test data, ensuring UI matched back-end results.
+            - Reported and escalated issues to developers, and verified fixes.
+            - Clarified requirements with product owners.
+            - Created new Jira workflows to provide real QA metrics.
+            - Estimated effort for stories and QA tasks.
+            - Mentored new QA team members.
       - role: Senior Quality Engineer
         time: 2019 - 2019
         company: Endava (PeopleMatter by SnagAJob)
         details: |
-          Human resource cloud-based solution that focuses on connecting workers with employers, offers 
-          end-to-end hiring solutions, allows to have a streamlined hiring process by combining sourcing, 
-          screening and applicant tracking into one centralized, web-based solution.
-            - Generating test plans and executed test cases
-            - Reporting and validating bugs, communicating with the development team
-            - Performing issue tracking, logging and reporting using JIRA
-            - Maintaining automated test suite, ensuring test kept working correctly
-            - Running automated cases
-            - Creating automated cases for new features within an already created and working framework 
-            (Selenium -Cucumber - Ruby).
+          Cloud-based HR solution providing end-to-end hiring processes by combining sourcing, screening, and applicant tracking.
+            - Created test plans and executed test cases.
+            - Reported and validated bugs, and communicated with development teams.
+            - Tracked and reported issues using Jira.
+            - Maintained the automated test suite and created new automated cases (Selenium–Cucumber–Ruby).
       - role: Senior Quality Engineer
         time: 2015 - 2019
         company: Endava (OrderGroove)
         details: |
-          Web-based platform that integrates into any eCommerce website, allowing customers to subscribe to 
-          frequently purchased items.
-            - Analyzing requirements, developing test plans, test scenarios, and executing test cases.
-            - Performing SQL statements for set up, retrieve and verify modified data for tests to ensure data 
-            displayed in UI matched back-end database.
-            - Analyzing applications and errors, escalated issues to developers, and verified fixes.
-            - Providing recommendations to developers and product owners on implementing more user-friendly features.
-            - Estimating stories and QA tasks
-            - Ensuring compatibility across multiple browsers and mobile devices.
-            - Testing API with Postman to create users on the database or modify their information, verifying 
-            correct errors were retrieved.
-            - Ensuring code was deployed correctly to production by running sanity tests.
-            - Triggering Jenkins jobs to execute API automated Testing.
-            - Documenting new functionalities in Confluence. 
-            - Participating in technical reviews related to UX changes.
-            - Participating in demos, and product meetings with product owners to ensure product quality.
-            - Provided mentoring and guidance for new members of the QA team.
+          Web-based subscription platform integrated into eCommerce sites.
+            - Analyzed requirements, developed test plans and scenarios, and executed test cases.
+            - Validated UI data consistency with back-end databases using SQL.
+            - Reported and escalated application issues, and verified fixes.
+            - Suggested user-friendly features to developers and product owners.
+            - Ensured compatibility across browsers and mobile devices.
+            - Tested APIs with Postman, verifying proper error handling.
+            - Verified deployments with sanity tests.
+            - Triggered Jenkins jobs to run automated API tests.
+            - Documented functionalities in Confluence.
+            - Participated in UX reviews, demos, and product meetings.
+            - Mentored and guided junior QA team members.
       - role: Quality Assurance Engineer
         time: 2014 - 2015
         company: Endava (WebMD Health Services)
         details: |
-          Web and mobile well-being solutions that provide assessment, motivation, coaching, education, rewards, 
-          communications, reporting for employers and health plans.
-            - Analyzing requirements, developing test plans, test scenarios, and executing test cases.
-            - Performing SQL statements for set up, retrieve and verify modified data for tests to ensure data displayed in UI matched back-end database.
-            - Analyzing applications and errors, escalated issues to developers, and verified fixes.
-            - Getting all requirements clarifications from the product owner. 
-            - Estimating stories
-            - Participating in continuous deployment process by deploying front-end changes using Jenkins.
-            - Documenting the application's functional specifications in Confluence.
+          Provider of web and mobile well-being solutions for employers and health plans.
+            - Developed test plans, scenarios, and executed test cases.
+            - Used SQL to validate UI and back-end data consistency.
+            - Reported and escalated issues, and verified fixes.
+            - Collaborated with product owners for requirements clarification.
+            - Estimated story effort.
+            - Deployed front-end changes via Jenkins as part of continuous deployment.
+            - Documented functional specifications in Confluence.
 #      - role: Managed Business Consultant
 #        time: 2011 - 2014
 #        company: Neoris (Lowe's Home Improvement)
