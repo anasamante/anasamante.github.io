@@ -13,13 +13,13 @@ sidebar:
 
     # Sidebar links
     email: ana.s.amante@gmail.com
-    phone: 
-    timezone: Central European Timezone
+    phone: 675550599
+    timezone: 
     citizenship:
     website:  #do not add http://
     linkedin: ana-amante
     xing: 
-    github: anasamante
+    github:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -54,18 +54,16 @@ sidebar:
       title: Skills 
 
       toolset:
-        - name: Proficiency in Cypress
-        - name: Version control	
-        - name: Web technologies HTML5 & CSS
         - name: Test planning, design and Test execution	
         - name: Regression testing	
         - name: Defect management	
-        - name: Test environment management	
-        - name: Test data management	
+        - name: Advanced in Cypress
+        - name: Version control	
+        - name: Web technologies HTML5 & CSS	
         - name: Communication skills	
         - name: Problem-solving skills	
         - name: Attention to detail
-        - name: Agiles Methodologies
+        - name: Agile Methodologies
         - name: Continuous integration and delivery
       
 career-profile:
@@ -90,10 +88,16 @@ experiences:
         company: Titan OS
         details: |
           Titan OS develops cutting-edge operating systems for smart TVs, leveraging innovative technologies to enhance user experiences. As a QA Automation Engineer, I focus on ensuring the quality and reliability of our TV OS platforms.
-          - Design & Implementation: Develop and maintain end-to-end automated tests for TV OS features using JavaScript and the Suitest framework.
-          - Test Suite Management: Continuously enhance and expand the existing test suite to ensure comprehensive coverage.
-          - Peer Reviews: Review colleagues’ work to maintain quality standards.
-          - Process Improvement: Actively contribute to refining testing processes, exploring new methodologies, and implementing best practices.
+          - Design & Implementation: Developed and maintained end-to-end automated tests for TV OS features using JavaScript and the Suitest framework, 
+          as well as a custom Playwright-based test framework covering both API and UI for the TitanOS vendor onboarding platform.  
+          - Test Strategy & Documentation: Designed the overall QA strategy for a specific team, updated all documentation, and ensured alignment with industry best practices.  
+          - Test Suite Management: Continuously enhanced and expanded the test suite to ensure comprehensive coverage, leveraging modular and reusable components for scalability (parallel execution, multi-environment configs, test data management).  
+          - CI/CD Integration: Connected test execution to Argo pipelines, enabling automated execution and real-time reporting with results delivered to Slack.  
+          - Reporting & Monitoring: Improved visibility through reporting integrations and facilitated transparency across teams.  
+          - Delivery Impact: Increased regression coverage, reducing release validation time, improving reliability. 
+          - Collaboration: Partnered with developers, DevOps, and product teams to align testing efforts with business priorities.  
+          - Knowledge Sharing & Mentorship: Led onboarding sessions for new joiners, mentored interns, and provided peer reviews to maintain quality standards.    
+          - Process Improvement: Explored new methodologies and implemented best practices to refine testing processes and reduce test flakiness.  
       - role: QA Automation Engineer
         time: 2021 - 2023
         company: Endava (Alchemer)
