@@ -1,105 +1,276 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
 sidebar:
-  position: left
-  about: true
-  education: true
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
-  name: Ana A.
-  tagline: QA Automation Engineer
-  avatar: profile.png
+    # Profile information
+    name: Ana Amante
+    tagline: QA Automation Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-  email: ana@example.com
-  phone: "+34 600 000 000"
-  website: "https://anaexample.com"
-  linkedin: ana-example
-  github: anaexample
+    # Sidebar links
+    email: ana.s.amante@gmail.com
+    phone: 
+    timezone: Central European Timezone
+    citizenship:
+    website:  #do not add http://
+    linkedin: ana-amante
+    xing: 
+    github: anasamante
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: Resume PDF
 
-  languages:
-    title: Languages
-    info:
-      - idiom: English
-        level: Professional
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Professional
 
-      - idiom: Spanish
-        level: Native
+        - idiom: Spanish
+          level: Native
 
-  interests:
-    title: Interests
-    info:
-      - item: Yoga
-        link:
+    interests:
+      title: Interests
+      info:
+        - item: Yoga
+          link:
 
-      - item: Travelling
-        link:
+        - item: Travelling
+          link:
 
-      - item: Reading
-        link:
+        - item: 
+          link:
 
+    skills:
+      title: Skills 
+
+      toolset:
+        - name: Proficiency in Cypress
+        - name: Version control	
+        - name: Web technologies HTML5 & CSS
+        - name: Test planning, design and Test execution	
+        - name: Regression testing	
+        - name: Defect management	
+        - name: Test environment management	
+        - name: Test data management	
+        - name: Communication skills	
+        - name: Problem-solving skills	
+        - name: Attention to detail
+        - name: Agiles Methodologies
+        - name: Continuous integration and delivery
+      
 career-profile:
-  title: Career Profile
-  summary: |
-    QA Automation Engineer with strong experience in API and UI testing,
-    continuous integration, and scalable automation frameworks. Skilled at
-    transforming manual test processes into fully automated solutions.
-
+    title: Career Profile
+    summary: |
+      Senior Quality Assurance Engineer with 9+ years of experience, including 2+ years experience in test automation 
+      using Cypress, with a strong understanding of Cypress concepts and techniques. Team focused worker, committed 
+      to ensure software quality compliance with system requirements specifications and ensure software meets production 
+      level requirements. 
+      Experience with different types of testing such as functional, regression, integration, cross browsing, 
+      exploratory, mobile, and testing of web applications, web services (APIs) and databases.
+      Software testing expertise on creation and maintenance of QA processes and workflows. Story analysis and 
+      clarification. Creation of test cases bugs and defects
 education:
-  title: Education
-  info:
-    - degree: BSc in Computer Science
-      university: University of Example
-      time: 2008 - 2012
-      details: |
-        Specialized in software engineering and quality assurance.
-
+    title: Education
+    info:
+      - degree: High School Diploma, Natural Sciences, Health and Environment
+        university: Escuela de Educación Secundaria Orientada N° 435
+        time: 1999 - 2003
+        details: 
 experiences:
-  title: Experiences
-  info:
-    - role: QA Automation Engineer
-      time: 2020 - Present
-      company: Tech Company A
-      details: |
-        - Developed and maintained Playwright and Selenium test suites
-        - Built API testing frameworks with Python
-        - Integrated tests into CI/CD pipelines
-
-    - role: QA Engineer
-      time: 2016 - 2020
-      company: Tech Company B
-      details: |
-        - Executed manual and automated testing for web applications
-        - Designed test cases and improved coverage
-        - Supported agile teams in delivering high-quality features
-
+    title: Experience
+    info:
+      - role: QA Automation Engineer
+        time: 2021 - 2023
+        company: Endava (Alchemer)
+        details: |
+          Enterprise data collection, orchestration, and analytics platform that helps 
+          some of the biggest brands to deliver on their missions by enabling them to 
+          operationalization feedback by integrating critical data from their Customers 
+          (employees, users, patients, vendors, etc) into their key business systems 
+          through an easy to use, low code SaaS platform.
+            - Design and write end-to-end automated tests for all new features, as well 
+            as for existing functionality. Cypress framework 
+            - Maintain, automate and develop the existing test suite across the project.
+            - Review the work of your colleagues.
+            - Continuously improve team’s processes, brainstorm ideas, and communicate 
+            your status and progress.
+            - Mentor other people, and provide feedback.
+            - Review requirements, specifications, and technical design documents to provide 
+            timely and meaningful feedback.
+            - Work closely with the product team, stakeholders, and users from the preliminary 
+            planning to plan and deliver new features.
+            - Estimate, prioritize, plan and coordinate testing activities.
+            - Actively participate in meetings including Scrum meetings.
+      - role: Mobile Senior Quality Engineer
+        time: 2020 - 2021
+        company: Venmo
+        details: |
+          Mobile functional quality engineer. Peer-to-peer payment platform, a mobile app 
+          that enables sending money easily among friends. It can be also used to pay for 
+          goods and services from some online retailers as well as to make in-app purchases. 
+          It’s also a social platform, your transactions are visible to the public, as well 
+          as your friends on the platform. Who’s sending or receiving money from whom, and 
+          the notes they include about what the payments are for are displayed on Venmo's feed.
+            - Design, implement and execute test strategy to ensure product quality.
+            - Set a great example of teamwork and collaboration for the QE and Experience team.
+            - Utilize test case management tools to write and maintain test plans and test cases 
+            - Utilize bug tracking software to report and track issue resolution.
+            - Perform ad hoc, edge case and critical path testing.
+            - Manually test on mobile devices to find bugs and give feedback on product quality.
+            - Leverage iOS and Android testing framework during regression.
+      - role: Senior Quality Engineer
+        time: 2020 - 2020
+        company: Bonzzu (Jempstep)
+        details: |
+          An established FinTech innovator with over 10 years of experience in digital advice. 
+          Build and implement end to end digital wealth solutions for banks, credit unions, RIAs, 
+          broker-dealers, and insurance firms.
+            - Developed, and maintained automated scripts to replicate and test real-world scenarios, 
+            migrating Selenium tests to Cypress
+            - Performed manual system tests when necessary.
+            - Wrote gherkin test scenarios.
+      - role: Senior Quality Engineer
+        time: 2019 - 2020
+        company: Overactive (XPO Logistics)
+        details: |
+          Leading global provider of transportation and logistics services: less-than-truckload 
+          transportation, truck brokerage, last mile logistics, intermodal, drayage, contract 
+          logistics, ground and air expedite, global forwarding and managed transportation.
+            - Analyzing requirements, developing test plans, test scenarios, and executing test cases.
+            - Performing SQL statements for set up, retrieve and verify modified data for tests to ensure 
+            data displayed in UI matched back end database.
+            - Analyzing applications and errors, escalated issues to developers, and verified fixes.
+            - Getting all requirements clarifications from the product owner. 
+            - Creating new workflows for QA in Jira to provide real metrics on how the QA activities are being done. 
+            - Estimating stories
+            - Provided mentoring and guidance for new members of the QA team.
+      - role: Senior Quality Engineer
+        time: 2019 - 2019
+        company: Endava (PeopleMatter by SnagAJob)
+        details: |
+          Human resource cloud-based solution that focuses on connecting workers with employers, offers 
+          end-to-end hiring solutions, allows to have a streamlined hiring process by combining sourcing, 
+          screening and applicant tracking into one centralized, web-based solution.
+            - Generating test plans and executed test cases
+            - Reporting and validating bugs, communicating with the development team
+            - Performing issue tracking, logging and reporting using JIRA
+            - Maintaining automated test suite, ensuring test kept working correctly
+            - Running automated cases
+            - Creating automated cases for new features within an already created and working framework 
+            (Selenium -Cucumber - Ruby).
+      - role: Senior Quality Engineer
+        time: 2015 - 2019
+        company: Endava (OrderGroove)
+        details: |
+          Web-based platform that integrates into any eCommerce website, allowing customers to subscribe to 
+          frequently purchased items.
+            - Analyzing requirements, developing test plans, test scenarios, and executing test cases.
+            - Performing SQL statements for set up, retrieve and verify modified data for tests to ensure data 
+            displayed in UI matched back-end database.
+            - Analyzing applications and errors, escalated issues to developers, and verified fixes.
+            - Providing recommendations to developers and product owners on implementing more user-friendly features.
+            - Estimating stories and QA tasks
+            - Ensuring compatibility across multiple browsers and mobile devices.
+            - Testing API with Postman to create users on the database or modify their information, verifying 
+            correct errors were retrieved.
+            - Ensuring code was deployed correctly to production by running sanity tests.
+            - Triggering Jenkins jobs to execute API automated Testing.
+            - Documenting new functionalities in Confluence. 
+            - Participating in technical reviews related to UX changes.
+            - Participating in demos, and product meetings with product owners to ensure product quality.
+            - Provided mentoring and guidance for new members of the QA team.
+      - role: Quality Assurance Engineer
+        time: 2014 - 2015
+        company: Endava (WebMD Health Services)
+        details: |
+          Web and mobile well-being solutions that provide assessment, motivation, coaching, education, rewards, 
+          communications, reporting for employers and health plans.
+            - Analyzing requirements, developing test plans, test scenarios, and executing test cases.
+            - Performing SQL statements for set up, retrieve and verify modified data for tests to ensure data displayed in UI matched back-end database.
+            - Analyzing applications and errors, escalated issues to developers, and verified fixes.
+            - Getting all requirements clarifications from the product owner. 
+            - Estimating stories
+            - Participating in continuous deployment process by deploying front-end changes using Jenkins.
+            - Documenting the application's functional specifications in Confluence.
+#      - role: Managed Business Consultant
+#        time: 2011 - 2014
+#        company: Neoris (Lowe's Home Improvement)
+#        details: |
+#          Web and desktop applications used internally for home improvement retail stores.
+#            - Resolving support requests or transactions of intermediate complexity that were scaled by Level 1 or Level 2 customer support, following the procedures established by the operation, looking in all cases to ensure continuity of customer operation, and software quality.
+#            - Documenting support resolutions in the knowledge base so that they can solve repeated cases.
+#            - Providing the user with a temporary solution that allows him/her to continue with his/her activity.
+#            - Diagnosing and determining the root cause of the problems of low complexity in order to prevent the recurrence of incidents reported.
+#            - Complying with client's SLA.
+#            - Executing activities related to the process of Incident and Problem Management in accordance with its responsibilities and Neoris' support methodology and defined procedures.
+#            - Participating in knowledge transfer to Neoris' co-workers.
 projects:
-  title: Projects
-  intro: |
-    Selected automation projects that improved testing efficiency and product quality.
-  assignments:
-    - title: API Testing Framework
-      link: "https://github.com/anaexample/api-framework"
-      tagline: "Designed a scalable API testing framework with Python and Pytest."
+    title: 
+    intro:
+    assignments:
+      - title:
+        link:
+        tagline:
+oss:
+    title:
+    intro:
+    contributions:
+      - title:
+        link:
+        tagline:
+publications:
+    title: Certificates
+    intro: 
+    papers: 
+      - title: Introduction to Programming with Python
+        link: https://certificates.cs50.io/08ff0841-5bd6-4919-b4b8-f12d5b54390a.pdf?size=letter
+        authors: CS50 - HarvardX
+        conference: 
+      - title: End-to-End JavaScript Testing with Cypress.io
+        link: https://www.linkedin.com/learning/certificates/825553e4475591ce1ce41374247727558dd2bac0ad1f0624790fa2c8744ebed9
+        authors: LinkedIn
+        conference: 
+      - title: Advanced Cypress
+        link: https://testautomationu.applitools.com/certificate/?id=1a68aa6d
+        authors: TestAutomationU
+        conference: 
+      - title: Cypress Version 10 Fundamentals
+        link: https://drive.google.com/file/d/1xw2bLbiwUlmZ33Sz3bBXdLywwlDwJ86x/view?usp=sharing
+        authors: BlazeMeter University
+        conference:
+      - title: Cypress with TypeScript
+        link: https://testautomationu.applitools.com/certificate/?id=cad9e71c
+        authors: TestAutomationU
+        conference:
+      - title: Learn Java Course
+        link: https://www.codecademy.com/profiles/ana.s.amante/certificates/d3f89367b558583e361640f778191345
+        authors: Codecademy
+        conference:
+      - title: EF SET English Certificate 81/100 (C2 Proficient)
+        link: https://www.efset.org/cert/ZfRp7j
+        authors: EF Standard English Test (EF SET) 
+        conference:
+      - title: Introduction to Cypress
+        link: https://testautomationu.applitools.com/certificate/?id=43eec164
+        authors: TestAutomationU 
+        conference:
+      - title: Scrum Foundation Professional Certificate (SFPC)
+        link: https://drive.google.com/file/d/12vjhN2X_ca8o27UCtiXPzHmw9tKSwB2H/view?usp=share_link
+        authors: CertiProf 
+        conference: Credential ID 84738839
+      - title: Software Development Fundamentals
+        link: https://sigead.online/alumnos/validar_certificado
+        authors: UTN Buenos Aires 
+        conference: Credential ID CER-72KL9XJY-319932
 
-    - title: UI Automation with Playwright
-      link: "https://github.com/anaexample/ui-tests"
-      tagline: "Created end-to-end UI automated tests using Playwright."
-
-skills:
-  title: Skills & Proficiency
-  toolset:
-    - name: Playwright
-      level: 90%
-
-    - name: Selenium
-      level: 85%
-
-    - name: Python
-      level: 80%
-
-    - name: JavaScript/TypeScript
-      level: 75%
-
-    - name: CI/CD (GitHub Actions, Jenkins)
-      level: 70%
-
-    - name: Docker & Kubernetes
-      level: 60%
-
+footer: >
