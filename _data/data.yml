@@ -54,26 +54,21 @@ sidebar:
       title: Skills 
 
       toolset:
-        - name: Test planning, design and Test execution	
-        - name: Regression testing	
-        - name: Defect management	
-        - name: Advanced in Cypress
-        - name: Version control	
-        - name: Web technologies HTML5 & CSS	
-        - name: Communication skills	
-        - name: Problem-solving skills	
-        - name: Attention to detail
-        - name: Agile Methodologies
-        - name: Continuous integration and delivery
+        - Test Automation: Playwright, Cypress, Selenium, Cucumber, Ruby, Suitest, Gherkin/BDD
+        - Languages: TypeScript, JavaScript, SQL, Java (foundational)
+        - API Testing: Postman, REST API testing, automated API testing
+        - CI/CD & Tools: Argo, Jenkins, Jira, Confluence, Slack integrations, X-ray
+        - Testing Types: Functional, regression, integration, exploratory, cross-browser, mobile (iOS & Android), API, database
+        - Methodologies: Scrum, Agile, BDD
       
 career-profile:
     title: Career Profile
-    summary: |
-      Senior Quality Assurance Engineer with 10+ years of experience, including 5+ years in test automation using Cypress, with a strong understanding of Cypress concepts and techniques. 
-      A team-oriented professional, committed to ensuring software quality, compliance with system requirements specifications, and meeting production-level standards.
-      
-      Extensive experience in multiple types of testing, including functional, regression, integration, cross-browser, exploratory, mobile, and testing of web applications, web services (APIs), and databases. Expertise in creating and maintaining QA processes and workflows. Skilled in story analysis and clarification, as well as in writing test cases, reporting bugs, and tracking defects.
-education:
+    summary: Senior QA Automation Engineer with 10+ years of experience across web, mobile, and API testing, including 5+ years specializing in test automation with Cypress and Playwright. 
+    I`ve worked across startups and enterprise environments in Argentina and Spain, adapting to different stacks, teams, and product domains. 
+    My expertise covers functional, regression, integration, exploratory, cross-browsing, and mobile testing, as well as database and web services (API) validation. 
+    Beyond executing tests, I contribute to building and improving QA processes and workflows, collaborating closely with development and product teams from early planning through release. 
+    I work best in agile, cross-functional teams where quality is treated as a shared responsibility, not just a final gate.
+    education:
     title: Education
     info:
       - degree: High School Diploma, Natural Sciences, Health and Environment
@@ -83,7 +78,7 @@ education:
 experiences:
     title: Experience
     info:
-      - role: QA Automation Engineer
+      - role: Senior QA Automation Engineer
         time: 2024 – Present
         company: Titan OS
         details: |
